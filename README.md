@@ -1,13 +1,12 @@
 # A Little Exploration Data Analysis
-This mini project is to keep up my own pace likely a tiny exercise to bring an extra miles for DataScience or Data Analysis
+This mini project is to keep up my own pace likely a tiny exercise to bring an extra miles for DataScience or Data Analysis<br>
 <hr>
 
 ## ACLED-Violence & Protest in Indonesia (2015-2019)
 
 1. **Does a events precisely reported by time and location ? What does it means ?**
 
-<img src='https://user-images.githubusercontent.com/61248667/93963692-13ee8600-fd88-11ea-8b32-58f1ae242076.png
-' style="display: block; margin-left: auto;margin-right: auto; width:60%" />
+<img src='https://user-images.githubusercontent.com/61248667/93963692-13ee8600-fd88-11ea-8b32-58f1ae242076.png' style="display: block; margin-left: auto;margin-right: auto; width:60%" />
 
 See all of above counting plot, its tell us for each *protest* had happened otherwise most of event accurately by reported times furthermore the exact location happened in a spesific places recorded as a longitude and latitude then described by Location, Admin1, Admin2, Admin3, Longitude, Latitude. Tiny amount of event has happened in a wide/opened area such as border area, forest, sea, etc.
 
